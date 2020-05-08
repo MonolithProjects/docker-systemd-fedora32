@@ -2,7 +2,7 @@ name: Monthly build
 
 on:
     schedule:
-        - cron: '50 15 8 * *'
+        - cron: '* 16 * * *'
 
 jobs:
     publish:
