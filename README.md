@@ -1,9 +1,9 @@
-# fedora32 Ansible Test Image
+# Fedora32 Ansible Test Image
 
-<a href="https://github.com/MonolithProjects/docker-systemd-fedora32/actions"><img src="https://github.com/MonolithProjects/docker-systemd-fedora32/workflows/Dockerfile%20test/badge.svg?branch=master"/></a>
-<a href="https://hub.docker.com/repository/docker/monolithprojects/systemd-fedora32"><img src="https://img.shields.io/microbadger/layers/monolithprojects/systemd-fedora32"/></a>
-<a href="https://hub.docker.com/repository/docker/monolithprojects/systemd-fedora32"><img src="https://img.shields.io/docker/pulls/monolithprojects/systemd-fedora32"/></a>
-<a href="https://hub.docker.com/repository/docker/monolithprojects/systemd-fedora32"><img src="https://img.shields.io/docker/cloud/automated/monolithprojects/systemd-fedora32?maxAge=2592000"/></a>
+[![GitHub Actions](https://github.com/MonolithProjects/docker-systemd-fedora32/workflows/Dockerfile%20test/badge.svg?branch=master)](https://github.com/MonolithProjects/docker-systemd-fedora32/actions)
+[![DockerHub-layers](https://img.shields.io/microbadger/layers/monolithprojects/systemd-fedora32)](https://hub.docker.com/repository/docker/monolithprojects/systemd-fedora32)
+[![DockerHub-pulls](https://img.shields.io/docker/pulls/monolithprojects/systemd-fedora32)](https://hub.docker.com/repository/docker/monolithprojects/systemd-fedora32)
+[![DockerHub](https://img.shields.io/docker/cloud/automated/monolithprojects/systemd-fedora32?maxAge=2592000)](https://hub.docker.com/repository/docker/monolithprojects/systemd-fedora32)
 
 Fedora32 docker image with enabled systemd. I am using it with Molecule for Ansible role testing.
 
